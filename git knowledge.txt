@@ -1,0 +1,3 @@
+git init --this initialize a folder to track the rep named git
+git status --shows tracked and untracked files 
+git -add --to stage is for tracking 
