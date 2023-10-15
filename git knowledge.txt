@@ -1,3 +1,5 @@
 git init --this initialize a folder to track the rep named git
 git status --shows tracked and untracked files 
 git -add --to stage is for tracking 
+git commit -m "message" --this is when we are commiting or taking a snapshoot of the staged files 
+git status --short m index.html M index.html --here when there is a non-commited change it will show s then name of the file 
